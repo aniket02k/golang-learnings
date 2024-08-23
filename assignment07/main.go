@@ -1,7 +1,7 @@
 package main
 
 import (
-	"assignment07/assignment07/solution"
+	"assignment07/solution"
 	"bufio"
 	"fmt"
 	"os"
